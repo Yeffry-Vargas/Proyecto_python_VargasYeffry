@@ -1,0 +1,60 @@
+[
+    {
+        "dia": "Lunes",
+        "eventos": [
+            {
+                "materia": "Matematicas",
+                "dia": "Lunes",
+                "hora_inicio": "08:00",
+                "hora_fin": "10:00",
+                "ubicacion": "Aula 101"
+            }
+        ]
+    },
+    {
+        "dia": "Martes",
+        "eventos": [
+            {
+                "materia": "Programacion",
+                "dia": "Martes ",
+                "hora_inicio": "11:00",
+                "hora_fin": "13:00",
+                "ubicacion": "Laboratorio 3"
+            },
+            {
+                "materia": "Quimica",
+                "dia": "Martes",
+                "hora_inicio": "15:00",
+                "hora_fin": "16:00",
+                "ubicacion": "Aula 305"
+            },
+            {
+                "materia": "Quimica",
+                "dia": "Martes",
+                "hora_inicio": "18:00",
+                "hora_fin": "20:00",
+                "ubicacion": "Lab 3"
+            }
+        ]
+    },
+    {
+        "dia": "Miercoles",
+        "eventos": []
+    },
+    {
+        "dia": "Jueves",
+        "eventos": []
+    },
+    {
+        "dia": "Viernes",
+        "eventos": [
+            {
+                "materia": "Fisica",
+                "dia": "viernes",
+                "hora_inicio": "08:00",
+                "hora_fin": "10:00",
+                "ubicacion": "Aula 101"
+            }
+        ]
+    }
+]
